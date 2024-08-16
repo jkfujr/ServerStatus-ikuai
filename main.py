@@ -3,7 +3,7 @@ import time,socket,json,requests
 from ikuai_login import get_sess_key
 
 # 爱快设置
-IKUAI_URL = ""
+IKUAI_URL = "http://10.0.0.1"
 IKUAI_USER = ""
 IKUAI_PASSWORD = ""
 
